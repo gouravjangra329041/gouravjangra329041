@@ -16,7 +16,7 @@
 ## 🔥 Typing Animation
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+Developer;Python+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+Developer;Python+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
