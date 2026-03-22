@@ -5,12 +5,16 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # 🔥 VERY IMPORTANT
+
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: gouravjangra329041
           outputs: |
@@ -20,5 +24,6 @@ jobs:
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}   # 🔥 FIX HERE
           target_branch: output
           build_dir: dist
