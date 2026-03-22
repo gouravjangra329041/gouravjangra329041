@@ -7,13 +7,13 @@
 
 ---
 
-## 🚀 Welcome to my GitHub!
+##  Welcome to my GitHub!
 
-💡 Passionate developer focused on building real-world applications and continuously improving skills.
+→ Passionate developer focused on building real-world applications and continuously improving skills.
 
 ---
 
-## 🔥 Typing Animation
+##  Typing Animation
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+Developer;Python+Enthusiast;Always+Learning+New+Things" />
@@ -34,7 +34,7 @@
 
 ---
 
-## 🚀 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gouravjangra329041&show_icons=true&theme=tokyonight" />
@@ -61,7 +61,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### 💻 Languages
+###  Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -79,7 +79,7 @@
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - 📌 Advanced Java Development  
 - 📌 Data Structures & Algorithms  
@@ -102,7 +102,7 @@
 
 ---
 
-## ⚽ Fun Fact
+##  Fun Fact
 
 ⚡ When I’m not coding, I enjoy exploring new technologies and building ideas 💡  
 
