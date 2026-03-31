@@ -87,7 +87,8 @@
 
 - 📌 Advanced Java Development  
 - 📌 Data Structures & Algorithms  
-- 📌 Full Stack Development  
+- 📌 Python Programming for Automation
+- 📌 Data Management & Visualisation using Power BI and Exploratory Data Analysis
 
 ---
 
