@@ -54,7 +54,7 @@
 
 - 🎓 Computer Science Student  
 - 💻 Love building applications and learning new tech  
-- 🚀 Goal: Become a Full Stack Developer  
+- 🚀 Goal: Become a Software Engineer  
 - 🔥 Passionate about coding & problem solving  
 
 ---
