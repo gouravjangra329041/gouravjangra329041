@@ -160,7 +160,7 @@
           y="0"
           width="16.53"
           height="8"
-          fill="#bd1139"
+          fill="#3572A5"
         />
       
         <rect
@@ -211,7 +211,7 @@
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#bd1139" />
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Python 2.61%
       </text>
