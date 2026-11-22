@@ -13,6 +13,7 @@ Computer Science student building web apps, mobile apps and machine learning pro
 ⚙️ Backend & Tools
 <p> <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Apache Tomcat" /> <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Apache Maven" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </p>
 📂 What I Build
+  <br>
 Real-world Java & Web Development applications
 GUI applications using Java Swing & JDBC
 Web-based applications
@@ -26,6 +27,7 @@ Python for Automation
 Power BI & Data Visualization
 Exploratory Data Analysis
 Full Stack Web Development
+  <br>
 GitHub Statistics
 <p align="center"> <img src="./profile/stats.svg" height="180" alt="Gourav's GitHub Statistics" /> <img src="./profile/top-langs.svg" height="180" alt="Gourav's Top Languages" /> </p> <p align="center">
 
